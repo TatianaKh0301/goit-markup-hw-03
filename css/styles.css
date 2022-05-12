@@ -61,7 +61,7 @@ body {
 }
 /*----------------------------------------------HEADER----------------------------------------  */
 .header {
-    border-bottom: 1px solid #EEEEEE;
+    border: 1px solid #ECECEC;
 }
 
 .navigation {
