@@ -60,6 +60,10 @@ body {
     padding-bottom: 94px;
 }
 /*----------------------------------------------HEADER----------------------------------------  */
+.header {
+    border-bottom: 1px solid #EEEEEE;
+}
+
 .navigation {
     display: flex;
 }
